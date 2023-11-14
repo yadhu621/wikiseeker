@@ -1,2 +1,5 @@
 Scrapy==2.9.0
 Twisted==22.10.0
+llama-index==0.8.42
+python-dotenv==1.0.0
+openai==0.28
